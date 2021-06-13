@@ -1,0 +1,2 @@
+# ImgHosting
+CDN for blog
