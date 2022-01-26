@@ -1,2 +1,1 @@
-# ImgHosting
-CDN for blog
+## CDN for blog
